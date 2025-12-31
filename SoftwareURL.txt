@@ -1,6 +1,6 @@
 7-Zip|https://www.7-zip.org/a/7z2501-x64.exe
 WinRAR|https://www.rarlab.com/rar/winrar-x64.exe
-Unikey|https://raw.githubusercontent.com/davidtool/davidtool/main/Unikey.zip
+Unikey|https://www.unikey.org/assets/release/unikey46RC2-230919-win64.zip
 Visual C++|https://aka.ms/vc_redist.x64.exe
 Acrobat Reader|https://get.adobe.com/reader/download/?installer=Reader_DC_2025.exe
 K-Lite Codec|https://codecguide.com/download_klite_codec_pack_full.exe
