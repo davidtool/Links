@@ -1,0 +1,19 @@
+7-Zip|https://www.7-zip.org/a/7z2501-x64.exe
+WinRAR|https://www.rarlab.com/rar/winrar-x64.exe
+Unikey|https://raw.githubusercontent.com/davidtool/davidtool/main/Unikey.zip
+Visual C++|https://aka.ms/vc_redist.x64.exe
+Acrobat Reader|https://get.adobe.com/reader/download/?installer=Reader_DC_2025.exe
+K-Lite Codec|https://codecguide.com/download_klite_codec_pack_full.exe
+Revo Uninstaller|https://www.revouninstaller.com/revo_uninstaller_setup.exe
+Notepad++|https://notepad-plus-plus.org/repository/7.x/7.9.5/npp.7.9.5.Installer.x64.exe
+IDM|https://www.internetdownloadmanager.com/idman638build25.exe
+Google Chrome|https://dl.google.com/chrome/install/375.126/chrome_installer.exe
+Cốc Cốc|https://coccoc.com/download/CocCocBrowser_Setup.exe
+Firefox|https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US
+Brave|https://laptop-updates.brave.com/latest/winx64
+Zalo|https://raw.githubusercontent.com/davidtool/davidtool/main/ZaloPC_Setup.exe
+AnyDesk|https://download.anydesk.com/AnyDesk.exe
+AnyViewer|https://download.anyviewer.com/AnyViewer_Setup.exe
+TeamViewer|https://download.teamviewer.com/download/TeamViewer_Setup.exe
+UltraViewer|https://www.ultraviewer.net/download/UltraViewer_Setup.exe
+RustDesk|https://github.com/rustdesk/rustdesk/releases/latest/download/rustdesk-windows.exe
